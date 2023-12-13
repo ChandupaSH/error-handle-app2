@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div>
-      <span>navbar</span>
+      <span>navbar-changed</span>
     </div>
   )
 }
